@@ -1,2 +1,2 @@
 # Basics-Python-Resume
-This is a resume of basics Python tutorial.
+This repository is used to compile resume and exerices of Python basics.
